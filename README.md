@@ -91,6 +91,19 @@ labTec/
 
 ---
 
+## Capturas de Pantalla
+
+### Pipeline CI ejecutado exitosamente en GitHub Actions
+![CI Pipeline](https://drive.google.com/uc?export=view&id=1wb0fv-iMr7xaIXgDzX2NdTIDu0H4J_cA)
+
+### Jenkinsfile en el repositorio con stages definidos
+![Jenkinsfile](https://drive.google.com/uc?export=view&id=1sM2_KQxAw_-6wGxJPs5e8POFuCjiixqu)
+
+### Aplicación web corriendo localmente
+![App Running](https://drive.google.com/uc?export=view&id=1L6DtsEZWanUWA74ftS5gzNoUJS37e6Om)
+
+---
+
 ## Pipeline CI - GitHub Actions (Detalle)
 
 **Archivo:** `.github/workflows/ci.yml`

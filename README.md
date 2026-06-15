@@ -155,5 +155,5 @@ docker run -p 5000:5000 labtech-app
 
 ## Autor
 
-Laboratorio Técnico - Módulo DevOps  
+Jagler David Velásquez Velásquez  
 Universidad de La Sabana

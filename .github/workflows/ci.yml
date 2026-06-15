@@ -18,10 +18,14 @@ jobs:
       # Stage 1: Checkout del código fuente
       - name: Checkout del repositorio
         uses: actions/checkout@v4
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
       # Stage 2: Configuración del entorno Python
       - name: Configurar Python 3.11
         uses: actions/setup-python@v5
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
         with:
           python-version: "3.11"
           cache: "pip"
